@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.Boutique"
+  DTS:DTSID="{F2E58BC6-8882-4551-B42D-09C16D683382}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=Boutique;Integrated Security=True;Application Name=SSIS-Proyecto Eddy-{F2E58BC6-8882-4551-B42D-09C16D683382}LocalHost.Boutique;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
